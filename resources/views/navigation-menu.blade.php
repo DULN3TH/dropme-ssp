@@ -245,16 +245,6 @@
                 <a class="nav-link" href="/contact">Contact Us</a>
             </li>
         </ul>
-        {{-- <form class="form-inline my-2 my-lg-0">
-       <div class="login_menu">
-          <ul>
-             <li><a href="#">Login</a></li>
-             <!-- <li><a href="#"><img src="images/trolly-icon.png"></a></li> -->
-             <li><a href="#"><img src="images/search-icon.png"></a></li>
-          </ul>
-       </div>
-       <div></div>
-    </form> --}}
 
         <li>
 

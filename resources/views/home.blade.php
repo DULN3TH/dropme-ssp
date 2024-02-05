@@ -123,8 +123,8 @@
           </div>
        </div>
        <div class="read_btn_main">
-          <div class="read_bt"><a href="#">Buyer</a></div>
-          <div class="read_bt"><a href="#">Seller</a></div>
+          <div class="read_bt"><a href="buyer.html">Buyer</a></div>
+          <div class="read_bt"><a href="seller.html">Seller</a></div>
        </div>
     </div>
  </div>
